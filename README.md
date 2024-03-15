@@ -70,19 +70,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+
 Dashboard : Users can see the Overall ratings and clients experience and also get recommendation
+
+
 ![Car1](https://github.com/shrinath1122/Car-Rental-System/assets/109133716/5f50479a-91bf-43dd-89fb-e7f76bbdbca3)
 
 
 Booking : In the Bookings section,users can see the bookings confirmed by him and also see the various cars available for rent.
+
+
 ![Car2](https://github.com/shrinath1122/Car-Rental-System/assets/109133716/c321cae0-de93-456b-a5c2-aa012d98bee5)
 
 
 Sell Cars Section : In this Section,We can see and check which car is currently available or not for selling.
+
+
 ![Car3](https://github.com/shrinath1122/Car-Rental-System/assets/109133716/c6724ed6-d56a-44cf-b969-455c8578db6d)
 
 
 Settings : In this settings Section,Users can update and delete his profiles as per convienence.
+
+
 ![Car4](https://github.com/shrinath1122/Car-Rental-System/assets/109133716/89fd53cc-5d96-46ef-b009-e4ec4edb2021)
 
 
